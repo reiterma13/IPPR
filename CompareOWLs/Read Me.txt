@@ -1,0 +1,16 @@
+----------------------------------------------
+CompareOWLs is a runable jar file.
+----------------------------------------------
+- open cmd
+- enter the comand: java -jar CompareOWL.jar
+- enter the owl file name 1: BUEPA.owl
+- enter the owl file name 2: IPPR.owl
+----------------------------------------------
+
+Make sure, that the input files are in the same folder as the jar file.
+The input files, can have any name.
+
+CompareOWL.jar creates the diffs folder with some log files which shows the differences.
+
+
+
