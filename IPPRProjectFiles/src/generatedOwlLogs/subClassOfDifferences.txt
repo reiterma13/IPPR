@@ -1,0 +1,33 @@
+
+------------------------Sub Classes---------------------------
+
+OWL_OUTPUT.owl has 27 sub classes.
+27 sub classes are missing in the file IPPR.owl
+
+BPMNDiagram is subClassOf Bpmn2:definitions
+BPMNEdge is subClassOf BpmnBPMNPlane
+BPMNLabel is subClassOf BpmnBPMNEdge
+BPMNLabel is subClassOf BpmnBPMNShape
+BPMNLabelStyle is subClassOf BpmnBPMNDiagram
+BPMNPlane is subClassOf BpmnBPMNDiagram
+BPMNShape is subClassOf BpmnBPMNPlane
+Bounds is subClassOf BpmnBPMNLabel
+Bounds is subClassOf BpmnBPMNShape
+Collaboration is subClassOf Bpmn2:definitions
+Definitions is subClassOf Document
+EndEvent is subClassOf Bpmn2:process
+Font is subClassOf BpmnBPMNLabelStyle
+Incoming is subClassOf Bpmn2:endEvent
+Incoming is subClassOf Bpmn2:parallelGateway
+Incoming is subClassOf Bpmn2:task
+MessageFlow is subClassOf Bpmn2:collaboration
+Outgoing is subClassOf Bpmn2:parallelGateway
+Outgoing is subClassOf Bpmn2:startEvent
+Outgoing is subClassOf Bpmn2:task
+ParallelGateway is subClassOf Bpmn2:process
+Participant is subClassOf Bpmn2:collaboration
+Process is subClassOf Bpmn2:definitions
+SequenceFlow is subClassOf Bpmn2:process
+StartEvent is subClassOf Bpmn2:process
+Task is subClassOf Bpmn2:process
+Waypoint is subClassOf BpmnBPMNEdge

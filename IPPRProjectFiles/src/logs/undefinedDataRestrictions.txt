@@ -1,0 +1,71 @@
+
+------------------------OBJECT RESTRICTIONS---------------------------
+
+IPPR.owl has 119 restrictions.
+BUEPA.owl has 130 restrictions.
+25 restrictions are missing in the file BUEPA.owl
+36 restrictions are missing in the file IPPR.owl
+
+------------------- Data Restriction Differences -----------------
+
+Activity has state exactly 1 string BUEPA.owl
+ActivityInstance has state exactly 1 string IPPR.owl
+AdHocProcess has cancelRemainingInstances exactly 1 boolean BUEPA.owl
+AdHocSub-Process has cancelRemainingInstances exactly 1 boolean IPPR.owl
+BPMNShape has isExpanded max 1 boolean IPPR.owl
+BPMNShape has isExpanded min 0 boolean IPPR.owl
+BPMNShape has isHorizontal max 1 boolean IPPR.owl
+BPMNShape has isHorizontal min 0 boolean IPPR.owl
+BPMNShape has isMarkerVisible max 1 boolean IPPR.owl
+BPMNShape has isMarkerVisible min 0 boolean IPPR.owl
+BPMNShape has isMessageVisible max 1 boolean IPPR.owl
+BPMNShape has isMessageVisible min 0 boolean IPPR.owl
+ComplexGateway has activationCount exactly 1 integer BUEPA.owl
+ComplexGateway has waitingForStart exactly 1 boolean BUEPA.owl
+ComplexGatewayInstance has activationCount exactly 1 integer IPPR.owl
+ComplexGatewayInstance has waitingForStart exactly 1 boolean IPPR.owl
+CorrelationProperty has type max 1 string IPPR.owl
+CorrelationProperty has type min 0 string IPPR.owl
+DataStoreReference has id exactly 1 string BUEPA.owl
+DataStoreReference has name max 1 string BUEPA.owl
+DataStoreReference has name min 0 string BUEPA.owl
+GlobalBusinessRuleTask has implementation exactly 1 string BUEPA.owl
+GlobalScriptTask has script max 1 string BUEPA.owl
+GlobalScriptTask has script min 0 string BUEPA.owl
+GlobalScriptTask has scriptFormat max 1 string BUEPA.owl
+GlobalScriptTask has scriptFormat min 0 string BUEPA.owl
+GlobalUserTask has actualOwner exactly 1 string BUEPA.owl
+GlobalUserTask has implementation exactly 1 string BUEPA.owl
+GlobalUserTask has taskPriority exactly 1 string BUEPA.owl
+LoopActivity has loopCounter exactly 1 integer IPPR.owl
+LoopActivityInstance has loopCounter exactly 1 integer IPPR.owl
+LoopCharacteristics has loopCounter exactly 1 integer BUEPA.owl
+MultiInstanceLoopCharacteristics has loopCounter exactly 1 integer BUEPA.owl
+MultiInstanceLoopCharacteristics has numberOfActiveInstances exactly 1 integer BUEPA.owl
+MultiInstanceLoopCharacteristics has numberOfCompletedInstances exactly 1 integer BUEPA.owl
+MultiInstanceLoopCharacteristics has numberOfInstances exactly 1 integer BUEPA.owl
+MultiInstanceLoopCharacteristics has numberOfTerminatedInstances exactly 1 integer BUEPA.owl
+Participant has name max 1 string IPPR.owl
+ParticipantMultiplicity has maximum exactly 1 integer IPPR.owl
+ParticipantMultiplicity has maximum max 1 integer BUEPA.owl
+ParticipantMultiplicity has maximum min 0 integer BUEPA.owl
+ParticipantMultiplicity has minimum exactly 0 integer IPPR.owl
+ParticipantMultiplicity has minium exactly 1 integer BUEPA.owl
+ParticipantMultiplicity has numParticipants max 1 integer BUEPA.owl
+ParticipantMultiplicity has numParticipants min 0 integer BUEPA.owl
+ParticipantMultiplicityInstanceAttributes has numParticipants max 1 integer IPPR.owl
+ParticipantMultiplicityInstanceAttributes has numParticipants min 0 integer IPPR.owl
+Process has state exactly 1 string BUEPA.owl
+ProcessInstance has state exactly 1 string IPPR.owl
+ResourceRole has name max 1 string BUEPA.owl
+ResourceRole has name min 0 string BUEPA.owl
+SequenceFlow has isImmediate exactly 1 boolean IPPR.owl
+SequenceFlow has isImmediate max 1 boolean BUEPA.owl
+SequenceFlow has isImmediate min 0 boolean BUEPA.owl
+Signal has name max 1 string BUEPA.owl
+Signal has name min 0 string BUEPA.owl
+Transaction has protocol exactly 1 string BUEPA.owl
+UserTask has actualOwner exactly 1 string BUEPA.owl
+UserTask has taskPriority exactly 1 integer BUEPA.owl
+UserTaskInstance has actualOwner exactly 1 string IPPR.owl
+UserTaskInstance has taskPriority exactly 1 integer IPPR.owl

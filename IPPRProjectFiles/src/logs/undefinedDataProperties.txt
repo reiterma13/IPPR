@@ -1,0 +1,21 @@
+
+------------------------DATA PROPERTIES---------------------------
+
+IPPR.owl contains 61 data properties.
+BUEPA.owl contains 61 data properties.
+
+5 data properties are missing in the file BUEPA.owl
+--------------------------------------------------------------------
+isExpanded
+isHorizontal
+isMarkerVisible
+isMessageVisible
+minimum
+
+5 data properties are missing in the file IPPR.owl
+--------------------------------------------------------------------
+extensionDefinitions
+minium
+participants
+processType
+protocol

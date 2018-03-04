@@ -1,0 +1,24 @@
+
+------------------------DATA PROPERTIES---------------------------
+
+OWL_OUTPUT.owl contains 27 data properties.
+
+17 data properties are missing in the file IPPR.owl
+--------------------------------------------------------------------
+bpmn2
+bpmndi
+dc
+di
+ext
+gatewayDirection
+height
+labelStyle
+processRef
+size
+sourceRef
+targetRef
+width
+x
+xs
+xsi
+y

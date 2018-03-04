@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Reiter/Desktop/OWLDescriber/OWLDescriber.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/IPPRProjectFiles/src/documentation/jarDescription.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="true" useSourceFolders="true"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=IPPRProjectFiles/src&lt;{OWLDescriber.java[OWLDescriber" manifestLocation="/IPPRProjectFiles/src/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=owlapi-apibinding"/>
+        <javaElement handleIdentifier="=owlapi-impl"/>
+        <javaElement handleIdentifier="=owlapi-parsers"/>
+        <file path="/IPPRProjectFiles/.project"/>
+        <javaElement handleIdentifier="=owlapi-contract"/>
+        <javaElement handleIdentifier="=owlapi-fixers"/>
+        <javaElement handleIdentifier="=IPPRProjectFiles/src"/>
+        <file path="/IPPRProjectFiles/.classpath"/>
+        <javaElement handleIdentifier="=owlapi-oboformat"/>
+        <javaElement handleIdentifier="=owlapi-api"/>
+        <javaElement handleIdentifier="=owlapi-tools"/>
+        <javaElement handleIdentifier="=owlapi-osgidistribution"/>
+        <javaElement handleIdentifier="=owlapi-rio"/>
+        <javaElement handleIdentifier="=owlapi-distribution"/>
+        <javaElement handleIdentifier="=owlapi-compatibility"/>
+    </selectedElements>
+</jardesc>

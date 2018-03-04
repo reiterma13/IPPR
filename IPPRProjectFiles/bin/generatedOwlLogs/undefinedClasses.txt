@@ -1,0 +1,12 @@
+
+------------------------UNDEFINED CLASSES---------------------------
+
+OWL_OUTPUT.owl contains 22 classes.
+
+5 classes are missing in the file IPPR.owl
+--------------------------------------------------------------------
+Bounds
+Document
+Incoming
+Outgoing
+Waypoint

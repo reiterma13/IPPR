@@ -1,0 +1,53 @@
+
+------------------------DATA RESTRICTIONS---------------------------
+
+OWL_OUTPUT.owl has 49 restrictions.
+47 data restrictions are missing in the file IPPR.owl
+
+BPMNDiagram has id exactly 1 string
+BPMNDiagram has name exactly 1 string
+BPMNEdge has id exactly 1 string
+BPMNLabel has id exactly 1 string
+BPMNLabel has labelStyle exactly 1 string
+BPMNLabelStyle has id exactly 1 string
+BPMNPlane has id exactly 1 string
+BPMNShape has id exactly 1 string
+BPMNShape has isExpanded exactly 1 boolean
+BPMNShape has isHorizontal exactly 1 boolean
+BPMNShape has isMarkerVisible exactly 1 boolean
+Bounds has height exactly 1 string
+Bounds has width exactly 1 string
+Bounds has x exactly 1 string
+Bounds has y exactly 1 string
+Collaboration has id exactly 1 string
+Definitions has exporter exactly 1 string
+Definitions has exporterVersion exactly 1 string
+Definitions has id exactly 1 string
+Definitions has targetNamespace exactly 1 string
+Definitions has xmlns:bpmn2 exactly 1 string
+Definitions has xmlns:bpmndi exactly 1 string
+Definitions has xmlns:dc exactly 1 string
+Definitions has xmlns:di exactly 1 string
+Definitions has xmlns:ext exactly 1 string
+Definitions has xmlns:xs exactly 1 string
+Definitions has xmlns:xsi exactly 1 string
+EndEvent has id exactly 1 string
+Font has name exactly 1 string
+Font has size exactly 1 string
+MessageFlow has id exactly 1 string
+MessageFlow has sourceRef exactly 1 string
+MessageFlow has targetRef exactly 1 string
+ParallelGateway has gatewayDirection exactly 1 string
+ParallelGateway has id exactly 1 string
+Participant has id exactly 1 string
+Participant has name exactly 1 string
+Participant has processRef exactly 1 string
+Process has id exactly 1 string
+Process has name exactly 1 string
+SequenceFlow has id exactly 1 string
+StartEvent has id exactly 1 string
+Task has id exactly 1 string
+Task has name exactly 1 string
+Waypoint has x exactly 1 string
+Waypoint has xsi:type exactly 1 string
+Waypoint has y exactly 1 string

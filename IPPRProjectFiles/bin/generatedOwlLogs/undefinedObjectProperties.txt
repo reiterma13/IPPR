@@ -1,0 +1,23 @@
+
+------------------------OBJECT PROPERTIES---------------------------
+
+OWL_OUTPUT.owl contains 27 object properties.
+
+16 object properties are not defined in the file IPPR.owl
+--------------------------------------------------------------------
+BPMNDiagram
+BPMNEdge
+BPMNLabel
+BPMNLabelStyle
+BPMNPlane
+BPMNShape
+Bounds
+Font
+collaboration
+definitions
+endEvent
+parallelGateway
+sequenceFlow
+startEvent
+task
+waypoint

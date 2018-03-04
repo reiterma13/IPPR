@@ -1,0 +1,17 @@
+
+------------------------Individuals---------------------------
+
+IPPR.owl has 4 individuals.
+BUEPA.owl has 0 individuals.
+
+4 individuals are missing in the file BUEPA.owl
+--------------------------------------------------------------------
+
+ActivityInstance
+ComplexGatewayInstance
+ParticipantMultiplicityInstanceAttributes
+ProcessInstance
+
+0 individuals are missing in the file IPPR.owl
+--------------------------------------------------------------------
+

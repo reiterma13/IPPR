@@ -1,0 +1,54 @@
+-----------------------------------------------------------------------------------------------------
+Installation and Configuration Steps
+-----------------------------------------------------------------------------------------------------
+
+JDK
+- http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- jdk-8u151-windows-x64.exe
+- System Variablen setzten: JAVA_HOME und Path 
+
+Eclipse
+- https://www.eclipse.org/downloads/download.php?file=/oomph/epp/oxygen/R/eclipse-inst-win64.exe
+- Eclipse IDE for Java Developers
+
+BPMN2-Modeler
+- Eclipse Marketplace
+- Eclipse BPMN2 Modeler 1.4.1
+
+OWL API
+- http://owlcs.github.io/owlapi/
+- Import existing maven project
+- Documentation: https://github.com/owlcs/owlapi/wiki/Documentation
+- Guide: http://owlapi.sourceforge.net/owled2011_tutorial.pdf
+- Releases https://github.com/owlcs/releases/tree/master/owlapi
+
+IPPRProjectFiles
+- Create Java Project
+- Configure Build Path -> Projects -> Add all owlapi projects
+- Run Configuration -> Classpath -> JRE System Library [JavaSE-1.8] und OWL
+- Download Folder 4 from https://github.com/owlcs/releases/tree/master/owlapi
+- and add external JAR Files from releases-master version 4
+-> sonst Exception in thread "main" java.lang.NoClassDefFoundError
+
+JDOM
+- http://www.jdom.org/downloads/
+- Add external JAR Files
+- Tutorial: https://www.tutorialspoint.com/java_xml/java_dom_create_document.htm
+
+
+Protege
+- https://protege.stanford.edu/products.php#desktop-protege
+
+Graphviz
+- https://graphviz.gitlab.io/_pages/Download/Download_windows.html
+
+OWL VIZ
+- Is a Protege Plugin and depends on Graphviz.
+- Protege: File -> Preferences -> OWL Viz -> Path to DOT ..\graphviz-2.38\release\bin\dot.exe
+
+
+
+
+
+
+

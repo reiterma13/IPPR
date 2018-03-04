@@ -1,0 +1,22 @@
+-----------------------------------------------------------------------------------------------------
+Links
+-----------------------------------------------------------------------------------------------------
+
+BPMN2.0
+http://www.omg.org/spec/BPMN/2.0/
+
+Appendix B. OWL Examples in XML Syntax
+https://www.w3.org/TR/owl-xmlsyntax/apd-example.html
+
+DL-Queries
+https://github.com/owlcs/owlapi/wiki/DL-Queries-with-a-real-reasoner
+
+XML comparision tool
+https://www.corefiling.com/opensource/xmldiff/
+
+bpmn tools
+https://demo.bpmn.io/new
+http://academic.signavio.com
+
+BPMN Model Interchange Working Group
+http://www.omgwiki.org/bpmn-miwg/doku.php

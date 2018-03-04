@@ -1,0 +1,45 @@
+
+------------------------OBJECT RESTRICTIONS---------------------------
+
+OWL_OUTPUT.owl has 39 restrictions.
+39 object restrictions are missing in the file IPPR.owl
+
+BPMNDiagram has BPMNLabelStyle exactly 1 BPMNLabelStyle
+BPMNDiagram has BPMNPlane exactly 1 BPMNPlane
+BPMNEdge has BPMNLabel exactly 1 BPMNLabel
+BPMNEdge has bpmnElement exactly 20 BPMNEdge
+BPMNEdge has sourceElement exactly 20 BPMNEdge
+BPMNEdge has targetElement exactly 20 BPMNEdge
+BPMNEdge has waypoint exactly 3 Waypoint
+BPMNEdge has waypoint exactly 4 Waypoint
+BPMNEdge has waypoint exactly 5 Waypoint
+BPMNLabel has Bounds exactly 1 Bounds
+BPMNLabelStyle has Font exactly 1 Font
+BPMNPlane has BPMNEdge exactly 20 BPMNEdge
+BPMNPlane has BPMNShape exactly 18 BPMNShape
+BPMNPlane has bpmnElement exactly 1 BPMNPlane
+BPMNShape has BPMNLabel exactly 1 BPMNLabel
+BPMNShape has Bounds exactly 1 Bounds
+BPMNShape has bpmnElement exactly 18 BPMNShape
+Collaboration has messageFlow exactly 4 MessageFlow
+Collaboration has participant exactly 2 Participant
+Definitions has BPMNDiagram exactly 1 BPMNDiagram
+Definitions has collaboration exactly 1 Collaboration
+Definitions has process exactly 2 Process
+Document has definitions exactly 1 Definitions
+EndEvent has incoming exactly 1 Incoming
+ParallelGateway has incoming exactly 1 Incoming
+ParallelGateway has incoming exactly 2 Incoming
+ParallelGateway has outgoing exactly 1 Outgoing
+ParallelGateway has outgoing exactly 2 Outgoing
+Process has definitionalCollaborationRef exactly 2 Process
+Process has endEvent exactly 1 EndEvent
+Process has parallelGateway exactly 2 ParallelGateway
+Process has sequenceFlow exactly 8 SequenceFlow
+Process has startEvent exactly 1 StartEvent
+Process has task exactly 4 Task
+SequenceFlow has sourceRef exactly 8 SequenceFlow
+SequenceFlow has targetRef exactly 8 SequenceFlow
+StartEvent has outgoing exactly 1 Outgoing
+Task has incoming exactly 1 Incoming
+Task has outgoing exactly 1 Outgoing

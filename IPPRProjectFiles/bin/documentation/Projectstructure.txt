@@ -1,0 +1,36 @@
+-----------------------------------------------------------------------------------------------------
+IPPRProjectFiles -> Project structure
+-----------------------------------------------------------------------------------------------------
+
+default
+- BPMN2OWL -> Transforms BPMN_INPUT.xml to OWL_OUTPUT.owl 
+- IPPRvsBueps -> Compares IPPR.owl and BUEPA.owl
+- IPPRvsTeilOntology -> Compares IPPR.owl and OWL_OUTPUT.owl
+- OWL2BPMN -> Transforms OLW_OUTPUT.owl to BPMN_Generated.xml
+- OWlDescriber -> takes owl input file from user and describes the ontology
+- Roundtrip -> Calls BPMN2OWL, OWL2BPMN and IPPRvsTeilOntology 
+
+bpmn
+- BPMN_Generated -> Generated from OWL_OUTPUT.owl
+- BPMN_INPUT -> Contains the xml source code of the diagram which should be converted to owl
+
+diagrams
+- Contains test diagrams from BPMN2-Modeler, Signavio and www.demo.bpmn.io
+
+documentation
+- Installation and Configuration Steps:
+  Contains all installation and configuration steps
+- Project structure: 
+  Contains explanation of packages, files and cohesion 
+- roundtrip.bpmn visualization   
+  
+generatedOwlLogs
+- Shows differences of IPPR.owl and OWL_OUTPUT
+
+logs
+- Shows differences of IPPR.owl and BUEPA.owl
+
+owl
+- IPPR.owl
+- BUEPA.owl
+- OWL_OUTPUT.owl -> Generated from BPMN_INPUT.xml

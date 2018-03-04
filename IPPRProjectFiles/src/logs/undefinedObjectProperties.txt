@@ -1,0 +1,56 @@
+
+------------------------OBJECT PROPERTIES---------------------------
+
+IPPR.owl contains 180 object properties.
+BUEPA.owl contains 187 object properties.
+
+19 object properties are missing in the file BUEPA.owl
+--------------------------------------------------------------------
+behavior
+bpmnElement
+calledChoreographyRef
+choreographyActivityShape
+complexBehaviorDefinition
+font
+initiatingParticipantRef
+ioBinding
+ioSpecification
+label
+labelStyle
+loopType
+messageVisibleKind
+noneBehaviorEventRef
+oneBehaviorEventRef
+participantBandKind
+plane
+sourceElement
+targetElement
+
+26 object properties are missing in the file IPPR.owl
+--------------------------------------------------------------------
+IOBinding
+IOSpecification
+activity
+behaviour
+callConversation
+collaboration
+complexBehaviourDefinition
+complexGateway
+container
+conversationAssociation
+conversationNode
+correlationProperty
+correlationSet
+exclusiceGateway
+flowElementsContainer
+inclusiveGateway
+incomingConversationLinks
+inputSet
+laneSet
+message
+messageFlowAssociation
+noneBehaviourEventRef
+oneBehaviourEventRef
+outgoingConversationLinks
+participantAssociation
+subConversation
