@@ -1,5 +1,5 @@
 # IPPR
-The intention of the integrated practise project is to find out if Business Process Model and Notation (BPMN) diagrams are conform to the BPMN 2.0 Specification. The outcome is a java-based prototype for the comparison of BPMN ontologies. The scientific paper and the prototype are intended for people, who want to check if their BPMN diagrams are conform to the BPMN 2.0 Specification.
+The intention of the integrated practise project is to find out if Business Process Model and Notation (BPMN) diagrams are conform to the BPMN 2.0 Specification. The outcome is are three java-based prototypes for the comparison of BPMN ontologies with the standard or other ontologies and a JAR file which describes an ontology. The scientific paper and the prototype are intended for people, who want to check if their BPMN diagrams are conform to the BPMN 2.0 Specification.
 
 The folders BPMN2OWL, CompareOWLs and OWLDescriber contain runnable JAR files.
 The folder IPPRProjectFiles contains the source code.
@@ -56,7 +56,7 @@ default
 - IPPRvsBueps -> Compares IPPR.owl and BUEPA.owl
 - IPPRvsTeilOntology -> Compares IPPR.owl and OWL_OUTPUT.owl
 - OWL2BPMN -> Transforms OLW_OUTPUT.owl to BPMN_Generated.xml
-- OWLDescriber
+- OWLDescriber -> Takes input owl an describes it.
 
 bpmn
 - BPMN_Generated -> Generated from OWL_OUTPUT.owl
