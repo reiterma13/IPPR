@@ -46,7 +46,7 @@ OWL VIZ
 - Protege: File -> Preferences -> OWL Viz -> Path to DOT ..\graphviz-2.38\release\bin\dot.exe
 
 -----------------------------------------------------------------------------------------------------
-IPPRProjectFiles -> Project structure
+Project structure
 -----------------------------------------------------------------------------------------------------
 
 default
