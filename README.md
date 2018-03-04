@@ -2,7 +2,7 @@
 The intention of the integrated practise project is to find out if Business Process Model and Notation (BPMN) diagrams are conform to the BPMN 2.0 Specification. The outcome is are three java-based prototypes for the comparison of BPMN ontologies with the standard or other ontologies and a JAR file which describes an ontology. The scientific paper and the prototypes are intended for people, who want to check if their BPMN diagrams are conform to the BPMN 2.0 Specification. The folders BPMN2OWL, CompareOWLs and OWLDescriber contain runnable JAR files. The folder IPPRProjectFiles contains the source code.
 
 -----------------------------------------------------------------------------------------------------
-Installation and Configuration Steps
+Installation and Configuration 
 -----------------------------------------------------------------------------------------------------
 
 JDK
@@ -46,7 +46,7 @@ OWL VIZ
 - Protege: File -> Preferences -> OWL Viz -> Path to DOT ..\graphviz-2.38\release\bin\dot.exe
 
 -----------------------------------------------------------------------------------------------------
-Project structure
+Project Structure
 -----------------------------------------------------------------------------------------------------
 
 default
