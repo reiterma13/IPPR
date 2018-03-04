@@ -1,0 +1,12 @@
+----------------------------------------------
+OWLDescriber is a runable jar file.
+----------------------------------------------
+- open cmd
+- enter the command: java -jar OWLDescriber.jar
+- enter the owl file name: IPPR.owl
+----------------------------------------------
+
+Make sure, that the input file is in the same folder as the jar file.
+The input file, can have any name.
+
+OWLDescriber.jar creates the diffs folder with a log file, which describes the ontology.
